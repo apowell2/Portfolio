@@ -1,0 +1,14 @@
+body {
+  background-color: CornflowerBlue;
+  font-family: lobster;
+  font-size: 1.25em;
+  text-align: center;
+}
+#image1{
+  width:400px;
+  height:450px;
+}
+
+ul {
+  list-style: none;
+}
